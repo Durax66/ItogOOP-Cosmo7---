@@ -12,7 +12,7 @@
 
 1. Окно входа:
    
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Cosmo7---/blob/master/screenshots/screen%201.png)
 
 ## Установка
 
